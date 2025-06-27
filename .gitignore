@@ -1,23 +1,13 @@
 # Ignorar archivos del sistema
-Thumbs.db           # Windows
+Thumbs.db
 
 # Ignorar entornos virtuales
-venv/               # Python (virtualenv)
-.env                # Variables de entorno
-
-# Ignorar archivos compilados
-__pycache__/        # Python cache
-*.class             # Java
-*.log               # Logs
-
-# Ignorar carpetas de dependencias
-node_modules/       # Node.js
-vendor/             # Composer (PHP)
+venv/
+.env
 
 # Ignorar configuraciones de IDE
-.idea/              # JetBrains (PyCharm, IntelliJ)
-.vscode/            # Visual Studio Code
+/.vscode
 
 # Ignorar archivos de compilación
-dist/               # Directorio de builds
+dist/
 build/
