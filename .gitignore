@@ -1,13 +1,1 @@
-# Ignorar archivos del sistema
-Thumbs.db
-
-# Ignorar entornos virtuales
-venv/
-.env
-
-# Ignorar configuraciones de IDE
-/.vscode
-
-# Ignorar archivos de compilación
-dist/
-build/
+.vscode/
